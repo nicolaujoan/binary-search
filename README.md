@@ -1,2 +1,2 @@
 # binary-search
-learning algorithms
+learning algorithms and implementing it in python ;)
